@@ -1,0 +1,81 @@
+html, body{
+    width: 100%;
+    height: 100%;
+}
+main{
+    width: 100%;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: grey;
+
+}
+
+header{
+    width: 100%; /* */
+    height: 5rem; /*Tamanho do header*/
+    display: flex; /*Torna o conteúdo flexível*/
+    justify-content: center; /*alinha horizontamente no centro */
+    align-items: center; /*alinha verticalmente no centro */
+    font-size: 2rem; /*Tamanho da fonte do header */
+    border-bottom: 0.1rem solid black; /*Cria uma borda na parte de baixo */
+    background-color: red;
+}
+
+.hamb{
+    position: absolute; 
+    top: 1rem; 
+    left: 1rem; 
+    width: 3rem; 
+}
+
+.profile{
+    position: absolute; 
+    top: 1rem; 
+    right: 1rem; 
+    width: 3rem; 
+}
+
+.favoritos{
+    width: 70%;
+}
+
+.calendario{
+    width: 80%;
+}
+
+ul{
+    width: 100%; 
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    align-items: center; 
+    
+}
+
+li{
+    flex-direction: row;
+    border: 1px solid black; 
+    width: 50%; 
+    height: 4rem; 
+    margin-top: 3.5rem;
+    font-size: 2rem; 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
+    padding-left: 1rem;
+    background-color: white;
+
+     
+}
+
+.grafico{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2.5rem;
+    width: 70%;
+    margin-bottom: 2.5rem;
+}
