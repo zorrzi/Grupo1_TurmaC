@@ -38,3 +38,9 @@ p{
 .voltar{
     font-style: italic;
 }
+
+a{
+    text-decoration: none; 
+    color: inherit; 
+    background-color: transparent; 
+}

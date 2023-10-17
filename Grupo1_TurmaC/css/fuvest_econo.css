@@ -41,6 +41,11 @@ header{
     padding: 1rem;
     font-size: 2rem;
     background-color: white;
+    margin: 2rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 .titulo{
@@ -50,7 +55,18 @@ header{
     align-items: center;
 }
 
+
 li{
     font-size: 4rem;
+    
 }
 
+a{
+    text-decoration: none; 
+    color: inherit; 
+    background-color: transparent; 
+}
+
+.img{
+    width: 5rem;
+}

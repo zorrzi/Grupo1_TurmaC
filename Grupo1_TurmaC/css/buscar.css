@@ -72,3 +72,9 @@ p{
     background-color: white;
     font-size: 2rem;
 }
+
+a{
+    text-decoration: none; 
+    color: inherit; 
+    background-color: transparent; 
+}
