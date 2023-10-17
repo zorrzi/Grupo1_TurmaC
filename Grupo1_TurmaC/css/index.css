@@ -54,20 +54,17 @@ ul{
 }
 
 li{
-    flex-direction: row;
     border: 1px solid black; 
     width: 50%; 
     height: 4rem; 
     margin-top: 3.5rem;
     font-size: 2rem; 
     display: flex; 
-    justify-content: space-between; 
+    flex-direction: row;
+    justify-content: center; 
     align-items: center;
-    padding-left: 1rem;
-    background-color: white;
-    position: relative;
-
-     
+    padding: 1rem;
+    background-color: white;     
 }
 
 .grafico{
