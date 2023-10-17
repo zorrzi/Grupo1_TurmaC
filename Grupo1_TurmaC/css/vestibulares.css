@@ -47,8 +47,7 @@ h2{
     flex-wrap: wrap; 
     justify-content: start; 
     align-items: center;
-    padding-left: 1.5rem;
-    padding-top: 1rem;
+    padding: 1rem;
     border: 0.1rem solid black;
     margin:2rem ;
     background-color: white;
@@ -59,11 +58,9 @@ h3{
     width: 75%;
     font-size: 2rem; 
     display: flex; 
-    flex-wrap: wrap; 
     justify-content: center; 
     align-items: center;
-    padding-left: 1.5rem;
-    padding-top: 1rem;
+    padding: 1rem;
     border: 0.1rem solid black;
     margin:2rem;
     margin-top: 17rem;
@@ -78,8 +75,7 @@ h3{
     flex-wrap: wrap; 
     justify-content: center; 
     align-items: center;
-    padding-left: 1.5rem;
-    padding-top: 1rem;
+    padding: 1rem;
     border: 0.1rem solid black;
     margin:2rem;
     background-color: white;
