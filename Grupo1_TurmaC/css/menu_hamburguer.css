@@ -5,13 +5,21 @@ html, body{
 }
 
 main {
-    height: 100%;
+    height: 70%;
     width: 70%;
     background-color: red;
     font-size: 2rem;
     padding: 1rem;
     display: flex;
     flex-direction: column;
+}
+
+footer{
+    width: 70%;
+    height: 12.5%;
+    background-color: red;
+    font-size: 3rem;
+    padding: 1rem;
 }
 
 h1 {
@@ -25,4 +33,8 @@ h1 {
 
 p{
     padding-bottom: 1rem;
+}
+
+.voltar{
+    font-style: italic;
 }
