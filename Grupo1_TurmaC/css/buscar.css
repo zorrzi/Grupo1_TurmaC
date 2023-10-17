@@ -66,10 +66,9 @@ p{
     flex-wrap: wrap; 
     justify-content: center; 
     align-items: center;
-    padding-left: 1.5rem;
-    padding-top: 1rem;
+    padding: 1rem;
     border: 0.1rem solid black;
-    margin:2rem ;
+    margin:2rem;
     background-color: white;
     font-size: 2rem;
 }
