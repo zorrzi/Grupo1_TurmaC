@@ -59,8 +59,7 @@ h1{
 }
 
 .itens{
-    font-size: 2rem;
-    color: red;
+    font-size: 2rem;;
     display: flex;
     padding-left: 1rem;
     flex-direction: column;
