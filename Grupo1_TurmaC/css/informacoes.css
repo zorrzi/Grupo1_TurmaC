@@ -24,7 +24,7 @@ header{
     align-items: center; /*alinha verticalmente no centro */
     font-size: 2rem; /*Tamanho da fonte do header */
     border-bottom: 0.1rem solid black; /*Cria uma borda na parte de baixo */
-    background-color: red;
+    background-color: #0070be;
 }
 
 .hamb{

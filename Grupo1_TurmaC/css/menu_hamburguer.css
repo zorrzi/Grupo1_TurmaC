@@ -5,7 +5,7 @@
 /*
 #FF1323 vermelho
 #0070be azul escuro
-#35a2fo azul medio
+#35a2f0 azul medio
 #71bef5 azul claro
 #ffc400 amarelo
 */
@@ -19,7 +19,7 @@ html, body{
 main {
     height: 70%;
     width: 70%;
-    background-color: red;
+    background-color: #0070be;
     font-size: 2rem;
     padding: 1rem;
     display: flex;
@@ -31,7 +31,7 @@ main {
 footer{
     width: 70%;
     height: 12.5%;
-    background-color: red;
+    background-color: #0070be;
     font-size: 3rem;
     padding: 1rem;
 }
@@ -39,7 +39,7 @@ footer{
 h1 {
     height: 100%;
     width: 70%;
-    background-color: red;
+    background-color: #0070be;
     font-size: 4rem;
     font-style: italic;
     padding: 1rem;
