@@ -49,6 +49,12 @@ h1 {
 
 p{
     padding-bottom: 1rem;
+    color: brown;
+    font-family: 'Merriweather', serif;
+}
+
+.opacidade{
+    opacity: 75%;
 }
 
 a{

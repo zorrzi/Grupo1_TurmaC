@@ -81,7 +81,8 @@ li{
     align-items: center;
     padding: 0.8rem;
     padding-left:0.8rem ;
-    background-color: white;     
+    background-color: #71bef5;     
+    font-family: 'Merriweather', serif;
 }
 
 .grafico{

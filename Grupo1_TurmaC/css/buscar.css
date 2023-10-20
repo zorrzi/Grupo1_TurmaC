@@ -80,8 +80,9 @@ p{
     padding: 1rem;
     border: 0.1rem solid black;
     margin:2rem;
-    background-color: white;
+    background-color: #71bef5;
     font-size: 2rem;
+    font-family: 'Merriweather', serif;
 }
 
 a{
@@ -100,5 +101,7 @@ h1{
 .vest{
     font-size: 2rem;
     font-weight: 100;
-    font-family: 'Courier New', Courier, monospace;
+    margin-top:1rem;
+    color: brown;
+    font-family: 'Merriweather', serif;
 }

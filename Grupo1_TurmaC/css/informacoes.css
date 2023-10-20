@@ -52,7 +52,8 @@ h2{
     justify-content: center;
     margin-top: 3rem;
     font-size: 3.5rem;
-    color: red;
+    color: brown;
+    font-family: 'Merriweather', serif;
 }
 
 ul{
@@ -72,4 +73,9 @@ h1{
     font-family: 'Charmonman', cursive;
     font-weight: 1000;
     font-size: 3rem;
+}
+
+li{
+    font-family: 'Merriweather', serif;
+    color: #35a2f0;
 }

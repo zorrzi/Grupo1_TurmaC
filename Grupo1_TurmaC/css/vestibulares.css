@@ -94,7 +94,7 @@ input{
     padding: 1rem;
     border: 0.1rem solid black;
     margin:2rem;
-    background-color: white;
+    background-color: #35a2f0;
 }
 
 .filtro{
@@ -117,5 +117,11 @@ h1{
 .vest{
     font-size: 2rem;
     font-weight: 100;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Merriweather', serif;
+    margin-top: 1rem;
+    color: brown;
+}
+
+p{
+    font-family: 'Merriweather', serif;
 }
