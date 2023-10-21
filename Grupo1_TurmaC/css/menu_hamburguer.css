@@ -3,17 +3,17 @@
 
 /*font-family: 'Merriweather', serif;*/
 /*
-#FF1323 vermelho
+#D9D9D9 cinza
 #0070be azul escuro
 #35a2f0 azul medio
 #71bef5 azul claro
-#ffc400 amarelo
+#6E3700 marrom
 */
 
 html, body{
     width: 100%;
     height: 100%;
-    background-color: lightgrey;
+    background-color: #D9D9D9;
 }
 
 main {
@@ -41,7 +41,6 @@ h1 {
     width: 70%;
     background-color: #0070be;
     font-size: 4rem;
-    font-style: italic;
     padding: 1rem;
     font-family: 'Charmonman', cursive;
     font-weight: 800;
@@ -49,7 +48,7 @@ h1 {
 
 p{
     padding-bottom: 1rem;
-    color: brown;
+    color: #6E3700;
     font-family: 'Merriweather', serif;
 }
 
